@@ -18,8 +18,9 @@ const countryCoordinates = {
   "Ghana": { latitude: 7.9465, longitude: -1.0232 },
   "Afghanistan": { latitude: 33.9391, longitude: 67.71 },
   "Cameroon": { latitude: 7.3697, longitude: 12.3547 },
-  "Zimbabwe": { latitude: -19.0154, longitude: 29.1549 }
-  // Add more countries as needed from your data
+  "Zimbabwe": { latitude: -19.0154, longitude: 29.1549 },
+  "Domestic": { latitude: 37.0902, longitude: -95.7129 }, // USA centroid
+  "USA": { latitude: 37.0902, longitude: -95.7129 } // Alias for Domestic
 };
 
 fetch(GIST_URL)
@@ -29,9 +30,13 @@ fetch(GIST_URL)
     localStorage.setItem('studentData', JSON.stringify(studentData));
     console.log("Student Data Loaded:", studentData);
 
-    // Aggregate students by country
+    // Aggregate students by country, treating "Domestic" as "USA"
     const countryData = studentData.reduce((acc, student) => {
-      const country = student["Citizenship Country"] || "Unknown";
+      let country = student["Citizenship Country"] || "Unknown";
+      // Map "Domestic" to "USA"
+      if (country === "Domestic") {
+        country = "USA";
+      }
       if (!acc[country]) {
         acc[country] = {
           country,
@@ -65,7 +70,10 @@ fetch(GIST_URL)
         el.style.borderRadius = '5px';
         el.style.whiteSpace = 'nowrap';
         el.style.cursor = 'pointer';
-        el.onclick = () => showStudentDetails(d.students);
+        el.onclick = () => {
+          localStorage.setItem('selectedCountry', d.country);
+          window.location.href = 'details.html';
+        };
         return el;
       });
 
@@ -74,32 +82,11 @@ fetch(GIST_URL)
     countryArray.forEach(country => {
       const button = document.createElement('button');
       button.textContent = `${country.country} (${country.studentCount} TTU Students)`;
-      button.addEventListener('click', () => showStudentDetails(country.students));
+      button.addEventListener('click', () => {
+        localStorage.setItem('selectedCountry', country.country);
+        window.location.href = 'details.html';
+      });
       sidebar.appendChild(button);
     });
-
-    // Function to display student details
-    function showStudentDetails(students) {
-      const detailsDiv = document.getElementById('studentDetails');
-      detailsDiv.innerHTML = ''; // Clear previous content
-      detailsDiv.style.display = 'block';
-
-      students.forEach(student => {
-        const studentInfo = document.createElement('div');
-        studentInfo.style.marginBottom = '10px';
-        studentInfo.innerHTML = `
-          <strong>ID:</strong> ${student["Application ID"]}<br>
-          <strong>Country:</strong> ${student["Citizenship Country"] || "N/A"}<br>
-          <strong>Term:</strong> ${student["Intended Term"]}<br>
-          <strong>Education:</strong><br>
-          ${student["Education History"].map(edu => `
-            - ${edu.Institution} (${edu.Degree}, ${edu["Subject Area"] || "N/A"}, GPA: ${edu.GPA || "N/A"})
-          `).join('<br>')}<br>
-          <strong>GRE:</strong> ${student["GRE Scores"] ? `V: ${student["GRE Scores"].Verbal}, Q: ${student["GRE Scores"].Quantitative}` : "N/A"}<br>
-          <strong>English Proficiency:</strong> ${student["English Proficiency"] ? `${student["English Proficiency"].Test}: ${student["English Proficiency"].Score}` : "N/A"}
-        `;
-        detailsDiv.appendChild(studentInfo);
-      });
-    }
   })
   .catch(error => console.error("Error loading student data:", error));
