@@ -1,0 +1,3216 @@
+[
+  {
+    "Application ID": "A-0146369",
+    "Intended Term": "Summer 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "12/16/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "United International University",
+        "GPA": 3.29,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-0154404",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "12/9/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "American International University Bangladesh",
+        "GPA": 3.38,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Electrical and Electronic Engineering"
+      },
+      {
+        "Institution": "Pennsylvania State University",
+        "GPA": 3.0,
+        "Degree": "Master of Science",
+        "Subject Area": "Electrical Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": null
+  },
+  {
+    "Application ID": "A-0155002",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "Continuing",
+    "Applicant Type": "External Change",
+    "Citizenship Country": "China",
+    "Review Date": "12/12/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Coventry University",
+        "GPA": 2.52,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": null
+      },
+      {
+        "Institution": "University Of Sheffield",
+        "GPA": 3.22,
+        "Degree": "Master of Science",
+        "Subject Area": null
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": null
+  },
+  {
+    "Application ID": "A-0153608",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "China",
+    "Review Date": "12/6/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Xidian University",
+        "GPA": 2.98,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Software Engineering"
+      },
+      {
+        "Institution": "University Of California - Riverside",
+        "GPA": 4.0,
+        "Degree": "Master of Science",
+        "Subject Area": "Computer Science"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "TOEFL",
+      "Score": 92
+    }
+  },
+  {
+    "Application ID": "A-0155199",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Nepal",
+    "Review Date": "12/11/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Tribhuvan University",
+        "GPA": 3.4,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Computer Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": null
+  },
+  {
+    "Application ID": "A-0152644",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "12/13/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Ahsanullah University of Science and Technology",
+        "GPA": 3.29,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-0155709",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "Former Tech Readmission",
+    "Applicant Type": "Regular",
+    "Citizenship Country": null,
+    "Review Date": "On-Campus",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Texas Tech University",
+        "GPA": 3.75,
+        "Degree": "Bachelor of Science",
+        "Subject Area": null
+      },
+      {
+        "Institution": "Texas Tech University",
+        "GPA": 3.89,
+        "Degree": "Master of Science",
+        "Subject Area": null
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": null
+  },
+  {
+    "Application ID": "A-0155369",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "China",
+    "Review Date": "12/14/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Huazhong University Of Science And Technology",
+        "GPA": 3.47,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Electrical and Electronic Engineering"
+      },
+      {
+        "Institution": "American University",
+        "GPA": 3.73,
+        "Degree": null,
+        "Subject Area": null
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": null
+  },
+  {
+    "Application ID": "A-0142409",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "9/25/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Jahangirnagar University",
+        "GPA": 3.45,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Cybersecurity"
+      },
+      {
+        "Institution": "University Of North Texas",
+        "GPA": null,
+        "Degree": "Master of Science",
+        "Subject Area": null
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "TOEFL",
+      "Score": 110
+    }
+  },
+  {
+    "Application ID": "A-0155056",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "12/13/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Khulna University of Engineering and Technology",
+        "GPA": 3.69,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Electronics and Communication Engineering"
+      }
+    ],
+    "GRE": {
+      "Verbal": 140,
+      "Quantitative": 160
+    },
+    "English Proficiency": {
+      "Test": "TOEFL",
+      "Score": 98
+    }
+  },
+  {
+    "Application ID": "A-0154278",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "12/11/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "International Islamic University Malaysia",
+        "GPA": 2.7,
+        "Degree": "Bachelor of Art",
+        "Subject Area": null
+      },
+      {
+        "Institution": "University Of Wollongong",
+        "GPA": 2.63,
+        "Degree": "Master of Science",
+        "Subject Area": "Computer Science"
+      },
+      {
+        "Institution": "International Islamic University Malaysia",
+        "GPA": 3.63,
+        "Degree": "Master of Science",
+        "Subject Area": "Computer Science"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Duolingo",
+      "Score": 110
+    }
+  },
+  {
+    "Application ID": "A-0152069",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "11/20/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "American International University Bangladesh",
+        "GPA": 3.81,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-0151165",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Nepal",
+    "Review Date": "11/15/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Tribhuvan University",
+        "GPA": 3.21,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Information Technology"
+      },
+      {
+        "Institution": "Tribhuvan University",
+        "GPA": 3.55,
+        "Degree": "Master's",
+        "Subject Area": "Business Administration (BBA)"
+      }
+    ],
+    "GRE": {
+      "Verbal": 170,
+      "Quantitative": 163
+    },
+    "English Proficiency": {
+      "Test": "TOEFL",
+      "Score": 93
+    }
+  },
+  {
+    "Application ID": "A-0145570",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Deferral",
+    "Citizenship Country": "Vietnam",
+    "Review Date": "10/7/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Montgomery College - Rockville",
+        "GPA": 3.92,
+        "Degree": "Associate of Art",
+        "Subject Area": "Computer Science"
+      },
+      {
+        "Institution": "Texas Tech University",
+        "GPA": 3.66,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": null
+  },
+  {
+    "Application ID": "A-0153717",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Deferral",
+    "Citizenship Country": "India",
+    "Review Date": "12/2/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Gujarat Technological University",
+        "GPA": 3.31,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Computer Science and Engineering"
+      },
+      {
+        "Institution": "Gujarat Technological University, Ahmedabad",
+        "GPA": 3.52,
+        "Degree": "Master of Technology",
+        "Subject Area": "Computer Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-135333",
+    "Intended Term": "Spring 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Liberia",
+    "Review Date": "5/8/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "University Of Liberia",
+        "GPA": null,
+        "Degree": "Bachelor of Art",
+        "Subject Area": "Public Administration"
+      },
+      {
+        "Institution": "University Of Phoenix",
+        "GPA": 2.73,
+        "Degree": "Bachelor of Science",
+        "Subject Area": null
+      },
+      {
+        "Institution": "University Of Phoenix",
+        "GPA": 3.88,
+        "Degree": "Master of Science",
+        "Subject Area": null
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": null
+  },
+  {
+    "Application ID": "A-0153620",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "12/17/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "American International University-Bangladesh",
+        "GPA": 3.63,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0156139",
+    "Intended Term": "Summer 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Deferral",
+    "Citizenship Country": null,
+    "Review Date": "12/17/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Institute of Engineering and Management",
+        "GPA": 3.44,
+        "Degree": "Bachelor of Science",
+        "Subject Area": null
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "PTE Academic",
+      "Score": 61
+    }
+  },
+  {
+    "Application ID": "A-0139721",
+    "Intended Term": "Spring 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Ireland",
+    "Review Date": "7/30/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Texas Tech University",
+        "GPA": 2.64,
+        "Degree": "Bachelor of Science",
+        "Subject Area": null
+      }
+    ],
+    "GRE": {
+      "Verbal": 151,
+      "Quantitative": 145
+    },
+    "English Proficiency": null
+  },
+  {
+    "Application ID": "A-0148984",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Iran",
+    "Review Date": "11/5/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Sepahan Institute of Higher Education",
+        "GPA": 2.95,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Electrical Electronics"
+      },
+      {
+        "Institution": "Semnan University",
+        "GPA": 3.44,
+        "Degree": "Master of Science",
+        "Subject Area": "Electrical and Computer Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "TOEFL",
+      "Score": 89
+    }
+  }
+{
+    "Application ID": "A-0155171",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": null,
+    "Review Date": "12/19/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Zhejiang University",
+        "GPA": 3.29,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Electrical Engineering"
+      },
+      {
+        "Institution": "Tsinghua University",
+        "GPA": 3.6,
+        "Degree": "Master of Engineering",
+        "Subject Area": "Electronic and Information Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0155955",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "Continuing",
+    "Applicant Type": "Internal Level Up",
+    "Citizenship Country": "India",
+    "Review Date": "12/16/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Indian Institute of Information Technology",
+        "GPA": 3.19,
+        "Degree": "Bachelor of Technology",
+        "Subject Area": null
+      }
+    ],
+    "GRE": {
+      "Verbal": 152,
+      "Quantitative": 163
+    },
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7.5
+    }
+  },
+  {
+    "Application ID": "A-0140458",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Nigeria",
+    "Review Date": "10/30/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Osun State University",
+        "GPA": 2.7,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science"
+      },
+      {
+        "Institution": "Osun State University",
+        "GPA": 2.69,
+        "Degree": "Associate of Applied Science",
+        "Subject Area": "Computer"
+      }
+    ],
+    "GRE": {
+      "Verbal": 156,
+      "Quantitative": 164
+    },
+    "English Proficiency": null
+  },
+  {
+    "Application ID": "A-0149866",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "China",
+    "Review Date": "11/14/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Southwest Petroleum University",
+        "GPA": 3.43,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Mechanical and Electrical Engineering"
+      },
+      {
+        "Institution": "Hangzhou Dianzi University",
+        "GPA": 3.33,
+        "Degree": "Master of Engineering",
+        "Subject Area": "Instrument Science and Technology"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Duolingo",
+      "Score": 110
+    }
+  },
+  {
+    "Application ID": "A-0151700",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "11/18/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "International Islamic University Chittagong",
+        "GPA": 3.42,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-0156425",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "China",
+    "Review Date": "12/19/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Changchun Normal University",
+        "GPA": 3.2,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Mathematics and Applied Mathematics"
+      },
+      {
+        "Institution": "The Chinese University of Hong Kong, Shenzhen",
+        "GPA": null,
+        "Degree": "Master of Science",
+        "Subject Area": null
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-0155193",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Iran",
+    "Review Date": "12/23/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Shahid Beheshti University",
+        "GPA": 2.57,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Engineering - Hardware"
+      },
+      {
+        "Institution": "Shahid Beheshti University",
+        "GPA": 3.41,
+        "Degree": "Master of Science",
+        "Subject Area": "Computer Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-0155884",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "12/20/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Fareast International University",
+        "GPA": 3.81,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      },
+      {
+        "Institution": "Prime University",
+        "GPA": 3.72,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": {
+      "Verbal": 157,
+      "Quantitative": 158
+    },
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7.5
+    }
+  },
+  {
+    "Application ID": "A-0157249",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/6/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "University Of Dhaka",
+        "GPA": 3.18,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Department of Mathematics"
+      },
+      {
+        "Institution": "University Of Dhaka",
+        "GPA": 3.45,
+        "Degree": "Master of Science",
+        "Subject Area": "Applied Mathematics"
+      }
+    ],
+    "GRE": {
+      "Verbal": 140,
+      "Quantitative": 151
+    },
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-0154217",
+    "Intended Term": "Spring 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Deferral",
+    "Citizenship Country": "Domestic",
+    "Review Date": "12/5/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Omdurman Alahlia University",
+        "GPA": 2.8,
+        "Degree": "Bachelor of Technology",
+        "Subject Area": null
+      },
+      {
+        "Institution": "Al Neelain University",
+        "GPA": 3.17,
+        "Degree": "Master",
+        "Subject Area": null
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": null
+  },
+  {
+    "Application ID": "A-0155311",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/6/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Manarat International University",
+        "GPA": 3.67,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Electronics and Communication Engineering"
+      },
+      {
+        "Institution": "East West University",
+        "GPA": 3.94,
+        "Degree": "Master of Science",
+        "Subject Area": "Telecommunication Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Duolingo",
+      "Score": 115
+    }
+  },
+  {
+    "Application ID": "A-0155885",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "China",
+    "Review Date": "1/6/2024",
+    "Application Delivery Type": "On Campus",
+    "Education History": [
+      {
+        "Institution": "Wuyi University",
+        "GPA": 2.89,
+        "Degree": null,
+        "Subject Area": "Mathematics and Computer"
+      },
+      {
+        "Institution": "Yunnan University",
+        "GPA": 3.38,
+        "Degree": "Master of Engineering",
+        "Subject Area": "Information Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "TOEFL",
+      "Score": 83
+    }
+  },
+  {
+    "Application ID": "A-0155761",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Domestic",
+    "Review Date": "1/7/2025",
+    "Application Delivery Type": "On Campus",
+    "Education History": [
+      {
+        "Institution": "Northwest Vista College - San Antonio",
+        "GPA": null,
+        "Degree": null,
+        "Subject Area": null
+      },
+      {
+        "Institution": "Texas A&M University - San Antonio",
+        "GPA": 3.89,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": null
+  },
+  {
+    "Application ID": "A-0156814",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Iran",
+    "Review Date": "1/7/2025",
+    "Application Delivery Type": "On Campus",
+    "Education History": [
+      {
+        "Institution": "Islamic Azad University",
+        "GPA": 2.95,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Computer and Information Technology"
+      }
+    ],
+    "GRE": {
+      "Verbal": 160,
+      "Quantitative": 170
+    },
+    "English Proficiency": {
+      "Test": "TOEFL",
+      "Score": 83
+    }
+  },
+  {
+    "Application ID": "A-0154510",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/3/2025",
+    "Application Delivery Type": "On Campus",
+    "Education History": [
+      {
+        "Institution": "Chittagong University of Engineering and Technology",
+        "GPA": 3.45,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": {
+      "Verbal": 141,
+      "Quantitative": 159
+    },
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0157470",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Domestic",
+    "Review Date": "1/9/2025",
+    "Application Delivery Type": "On Campus",
+    "Education History": [
+      {
+        "Institution": "Shanghai Jiao Tong University",
+        "GPA": 3.16,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Physics"
+      },
+      {
+        "Institution": "University Of Massachusetts - Lowell",
+        "GPA": 3.85,
+        "Degree": "PhD",
+        "Subject Area": "Electrical Engineering (MS)"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": null
+  },
+  {
+    "Application ID": "A-0156921",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Pakistan",
+    "Review Date": "1/8/2025",
+    "Application Delivery Type": "On Campus",
+    "Education History": [
+      {
+        "Institution": "Ghulam Ishaq Khan Institute of Engineering Sciences & Technology",
+        "GPA": 3.01,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7.5
+    }
+  },
+  {
+    "Application ID": "A-0157236",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "China",
+    "Review Date": "1/8/2025",
+    "Application Delivery Type": "On Campus",
+    "Education History": [
+      {
+        "Institution": "Zhengzhou University",
+        "GPA": 2.8,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Computer Science and Technology"
+      },
+      {
+        "Institution": "University Of Melbourne",
+        "GPA": 3.63,
+        "Degree": "Master of Engineering",
+        "Subject Area": "Software Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0156270",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "China",
+    "Review Date": "1/8/2025",
+    "Application Delivery Type": "On Campus",
+    "Education History": [
+      {
+        "Institution": "University Of Science And Technology Of China",
+        "GPA": 2.74,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Electronic Science and Technology"
+      },
+      {
+        "Institution": "University Of Science And Technology Of China",
+        "GPA": 2.89,
+        "Degree": "Master of Engineering",
+        "Subject Area": "Electronic Science and Technology"
+      }
+    ],
+    "GRE": {
+      "Verbal": 146,
+      "Quantitative": 170
+    },
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-0155933",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "12/31/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Bangladesh University of Engineering and Technology",
+        "GPA": 3.26,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Electrical and Electronic Engineering"
+      }
+    ],
+    "GRE": {
+      "Verbal": 143,
+      "Quantitative": 161
+    },
+    "English Proficiency": {
+      "Test": "TOEFL",
+      "Score": 92
+    }
+  } 
+{
+    "Application ID": "A-0156495",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "12/30/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "United International University",
+        "GPA": 3.92,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      },
+      {
+        "Institution": "United International University",
+        "GPA": 3.76,
+        "Degree": "Master of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-0156853",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "12/30/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Shahjalal University of Science and Technology",
+        "GPA": 3.6,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Software Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7.5
+    }
+  },
+  {
+    "Application ID": "A-0154385",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "Continuing",
+    "Applicant Type": "Internal Level Up",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "12/28/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "North South University",
+        "GPA": 3.05,
+        "Degree": "Bachelor of Science",
+        "Subject Area": null
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Duolingo",
+      "Score": 110
+    }
+  },
+  {
+    "Application ID": "A-0155890",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Iran",
+    "Review Date": "12/26/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Islamic Azad University",
+        "GPA": 3.61,
+        "Degree": "Master of Science",
+        "Subject Area": "Computer Engineering - Computer Systems Architecture"
+      },
+      {
+        "Institution": "Payame Noor University",
+        "GPA": 2.59,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Engineering - Software"
+      }
+    ],
+    "GRE": {
+      "Verbal": 160,
+      "Quantitative": 167
+    },
+    "English Proficiency": {
+      "Test": "TOEFL",
+      "Score": 106
+    }
+  },
+  {
+    "Application ID": "A-0155839",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Domestic",
+    "Review Date": "1/10/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "University Of Texas - Austin",
+        "GPA": 3.8,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Electrical and Computer Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": null
+  },
+  {
+    "Application ID": "A-0147260",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "Continuing",
+    "Applicant Type": "External Level Up",
+    "Citizenship Country": "Ghana",
+    "Review Date": "10/20/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "University Of Cape Coast",
+        "GPA": 3.6,
+        "Degree": "Bachelor of Education",
+        "Subject Area": null
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Exemption",
+      "Score": null
+    }
+  },
+  {
+    "Application ID": "A-0157246",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Pakistan",
+    "Review Date": "1/1/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "University of the Punjab",
+        "GPA": 3.33,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Information Technology"
+      },
+      {
+        "Institution": "University of the Punjab",
+        "GPA": 3.28,
+        "Degree": "Master of Science",
+        "Subject Area": "Physics"
+      },
+      {
+        "Institution": "National University of Sciences and Technology",
+        "GPA": 3.30,
+        "Degree": "Master of Science",
+        "Subject Area": "Physics"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 8.5
+    }
+  },
+  {
+    "Application ID": "A-0157655",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Iran",
+    "Review Date": "1/1/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Shamsipour Technical and Vocational College",
+        "GPA": 2.97,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Computer Software Technology Engineering"
+      },
+      {
+        "Institution": "Islamic Azad University",
+        "GPA": 3.73,
+        "Degree": "Master of Engineering",
+        "Subject Area": "Computer Engineering - AI and Robotics"
+      }
+    ],
+    "GRE": {
+      "Verbal": 156,
+      "Quantitative": 166
+    },
+    "English Proficiency": {
+      "Test": "TOEFL",
+      "Score": 97
+    }
+  },
+  {
+    "Application ID": "A-0157141",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Pakistan",
+    "Review Date": "12/30/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "University of the Punjab",
+        "GPA": 3.23,
+        "Degree": "Bachelor of Science",
+        "Subject Area": null
+      },
+      {
+        "Institution": "International Islamic University-Islamabad",
+        "GPA": 3.95,
+        "Degree": "Master of Science",
+        "Subject Area": "Physics"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Duolingo",
+      "Score": 110
+    }
+  },
+  {
+    "Application ID": "A-0157313",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/3/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Khulna University of Engineering and Technology",
+        "GPA": 3.53,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Electronics & Communication Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0160339",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "Continuing",
+    "Applicant Type": "Internal Level Up",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/13/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Brac University",
+        "GPA": 3.8,
+        "Degree": "Bachelor of Science",
+        "Subject Area": null
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-0158106",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "China",
+    "Review Date": "1/3/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Sichuan University",
+        "GPA": 2.64,
+        "Degree": "Master of Engineering",
+        "Subject Area": "Software Engineering"
+      },
+      {
+        "Institution": "Chengdu University of Information Technology",
+        "GPA": 3.35,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Computer Science and Technology"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Duolingo",
+      "Score": 110
+    }
+  },
+  {
+    "Application ID": "A-0156654",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Domestic",
+    "Review Date": "1/14/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Georgia State University",
+        "GPA": 3.3,
+        "Degree": "Bachelor of Business Administration",
+        "Subject Area": "Computer Information Systems"
+      },
+      {
+        "Institution": "Georgia Institute Of Technology",
+        "GPA": 3.37,
+        "Degree": "Master of Science",
+        "Subject Area": "Cybersecurity"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": null
+  },
+  {
+    "Application ID": "A-0158002",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Domestic",
+    "Review Date": "1/15/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "University Of Houston - Clear Lake",
+        "GPA": 3.56,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science"
+      },
+      {
+        "Institution": "University Of Houston - Clear Lake",
+        "GPA": 3.95,
+        "Degree": "Master of Science",
+        "Subject Area": "Computer Science"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": null
+  },
+  {
+    "Application ID": "A-0160635",
+    "Intended Term": "Summer 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Deferral",
+    "Citizenship Country": "Domestic",
+    "Review Date": "12/5/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Omdurman Alahlia University",
+        "GPA": 2.8,
+        "Degree": "Bachelor of Technology",
+        "Subject Area": null
+      },
+      {
+        "Institution": "Al Neelain University",
+        "GPA": 3.17,
+        "Degree": "Master",
+        "Subject Area": null
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": null
+  },
+  {
+    "Application ID": "A-0149536",
+    "Intended Term": "Summer 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Afghanistan",
+    "Review Date": "11/4/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Kabul University",
+        "GPA": 2.33,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Mathematics"
+      },
+      {
+        "Institution": "University of Portsmouth",
+        "GPA": 4.0,
+        "Degree": "Master of Technology",
+        "Subject Area": "Computer Network Administration and Management"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Exemption",
+      "Score": null
+    }
+  },
+  {
+    "Application ID": "A-0157564",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/4/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "International Islamic University Chittagong",
+        "GPA": 3.87,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-0151793",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Pakistan",
+    "Review Date": "1/6/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "University Of Karachi",
+        "GPA": 3.38,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Space and Astrophysics"
+      },
+      {
+        "Institution": "University Of Karachi",
+        "GPA": 3.28,
+        "Degree": "Master of Science",
+        "Subject Area": "Computer Science"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0157639",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Iran",
+    "Review Date": "1/4/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Razi University",
+        "GPA": 3.06,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Electrical Engineering"
+      },
+      {
+        "Institution": "University of Kurdistan",
+        "GPA": 3.51,
+        "Degree": "Master of Science",
+        "Subject Area": "Electrical Engineering - Communication Systems"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7.5
+    }
+  },
+  {
+    "Application ID": "A-0158492",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/4/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "IBAIS University",
+        "GPA": 3.41,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Networking"
+      },
+      {
+        "Institution": "IBAIS University",
+        "GPA": 3.75,
+        "Degree": "Master of Science",
+        "Subject Area": "Computer Science"
+      }
+    ],
+    "GRE": {
+      "Verbal": 154,
+      "Quantitative": 4
+    },
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 8
+    }
+  }
+
+{
+    "Application ID": "A-0158890",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/6/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Bangladesh University of Engineering and Technology",
+        "GPA": 3.56,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0157454",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/4/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Rajshahi University of Engineering and Technology",
+        "GPA": 3.35,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Electrical & Computer Engineering"
+      },
+      {
+        "Institution": "University Of Dhaka",
+        "GPA": 3.42,
+        "Degree": "Master of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": {
+      "Verbal": 148,
+      "Quantitative": 161
+    },
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 8
+    }
+  },
+  {
+    "Application ID": "A-0158669",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Nigeria",
+    "Review Date": "1/5/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Federal University of Technology, Owerri",
+        "GPA": 2.89,
+        "Degree": "Bachelor of Technology",
+        "Subject Area": "Management Technology"
+      }
+    ],
+    "GRE": {
+      "Verbal": 166,
+      "Quantitative": 168
+    },
+    "English Proficiency": {
+      "Test": "Exemption",
+      "Score": null
+    }
+  },
+  {
+    "Application ID": "A-0157733",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "India",
+    "Review Date": "1/5/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Koneru Lakshmaiah Education Foundation",
+        "GPA": 3.61,
+        "Degree": "Bachelor of Technology",
+        "Subject Area": "Electronics and Communication Engineering"
+      },
+      {
+        "Institution": "SUNY - Binghamton University",
+        "GPA": 3.58,
+        "Degree": "Master of Science",
+        "Subject Area": "Computer Science"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Exemption",
+      "Score": null
+    }
+  },
+  {
+    "Application ID": "A-0158490",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "China",
+    "Review Date": "1/4/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Heilongjiang University",
+        "GPA": 3.2,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Software Engineering"
+      },
+      {
+        "Institution": "Heilongjiang University",
+        "GPA": 3.55,
+        "Degree": "Master of Engineering",
+        "Subject Area": "Computer Technology"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6
+    }
+  },
+  {
+    "Application ID": "A-0158844",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/6/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "United International University",
+        "GPA": 3.97,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science & Engineering"
+      },
+      {
+        "Institution": "United International University",
+        "GPA": 4.0,
+        "Degree": "Master of Science",
+        "Subject Area": "Data Science"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0158148",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/6/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Gujarat Technological University",
+        "GPA": 3.02,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Computer Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-0156366",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/5/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Rajshahi University of Engineering and Technology",
+        "GPA": 3.68,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science & Engineering"
+      },
+      {
+        "Institution": "Rajshahi University of Engineering and Technology",
+        "GPA": 3.5,
+        "Degree": "Master of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0158513",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "China",
+    "Review Date": "1/6/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Inner Mongolia Institute Of Technology",
+        "GPA": 1.88,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Traffic and Transportation"
+      },
+      {
+        "Institution": "North China Electric Power University",
+        "GPA": 2.87,
+        "Degree": "Master of Engineering",
+        "Subject Area": "Power Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "TOEFL",
+      "Score": 95
+    }
+  },
+  {
+    "Application ID": "A-0159734",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "Continuing",
+    "Applicant Type": "Deferral",
+    "Citizenship Country": "Nigeria",
+    "Review Date": "1/10/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Federal University of Technology, Akure",
+        "GPA": 2.69,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": null
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Exemption",
+      "Score": null
+    }
+  },
+  {
+    "Application ID": "A-0161678",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Deferral",
+    "Citizenship Country": "Iran",
+    "Review Date": "1/22/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Shamsipour Technical and Vocational College",
+        "GPA": 3.06,
+        "Degree": "Associate of Science",
+        "Subject Area": "Information Technology"
+      },
+      {
+        "Institution": "Shamsipour Technical and Vocational College",
+        "GPA": 3.7,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Computer Software Engineering Technology"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-0153794",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Nepal",
+    "Review Date": "1/9/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Tribhuvan University",
+        "GPA": 3.13,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Computer Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0158505",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/9/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "North South University",
+        "GPA": 3.85,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Duolingo",
+      "Score": 125
+    }
+  },
+  {
+    "Application ID": "A-0155939",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/12/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Shahjalal University of Science and Technology",
+        "GPA": 3.86,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      },
+      {
+        "Institution": "Shahjalal University of Science and Technology",
+        "GPA": 3.85,
+        "Degree": "Master of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0158916",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/12/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Ahsanullah University of Science and Technology",
+        "GPA": 3.08,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0157133",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Sri Lanka",
+    "Review Date": "1/13/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "University of Kelaniya",
+        "GPA": 3.71,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0157650",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Iran",
+    "Review Date": "1/11/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Islamic Azad University",
+        "GPA": 3.43,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Computer Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-0153399",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/14/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "University Of Dhaka",
+        "GPA": 3.52,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0155017",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/14/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Jahangirnagar University",
+        "GPA": 3.84,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0159662",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/14/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Chittagong University of Engineering and Technology",
+        "GPA": 3.21,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": {
+      "Verbal": 148,
+      "Quantitative": 161
+    },
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  }
+
+{
+    "Application ID": "A-0159676",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/14/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Bangladesh University of Professionals",
+        "GPA": 3.78,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0159674",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/14/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Bangladesh University of Professionals",
+        "GPA": 3.93,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Information and Communication Engineering"
+      },
+      {
+        "Institution": "Bangladesh University of Professionals",
+        "GPA": 4.0,
+        "Degree": "Master of Science",
+        "Subject Area": "Information Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0154731",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Nepal",
+    "Review Date": "1/14/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Tribhuvan University",
+        "GPA": 3.36,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Electronics and Communication Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "TOEFL",
+      "Score": 101
+    }
+  },
+  {
+    "Application ID": "A-0159970",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/14/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "American International University Bangladesh",
+        "GPA": 3.22,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": {
+      "Verbal": 161,
+      "Quantitative": 166
+    },
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-0158529",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "China",
+    "Review Date": "1/6/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Inner Mongolia Institute Of Technology",
+        "GPA": 1.59,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Building Environment and Energy Application Engineering"
+      },
+      {
+        "Institution": "North China Electric Power University",
+        "GPA": 3.19,
+        "Degree": "Master (other)",
+        "Subject Area": "Energy and Power"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-0159277",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Iran",
+    "Review Date": "1/9/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Islamic Azad University",
+        "GPA": 3.11,
+        "Degree": "Bachelor of Science",
+        "Subject Area": null
+      },
+      {
+        "Institution": "Islamic Azad University",
+        "GPA": 3.85,
+        "Degree": "Master of Science",
+        "Subject Area": "Computer Engineering - Computer Networks"
+      }
+    ],
+    "GRE": {
+      "Verbal": 161,
+      "Quantitative": 168
+    },
+    "English Proficiency": {
+      "Test": "TOEFL",
+      "Score": 98
+    }
+  },
+  {
+    "Application ID": "A-0146709",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "Continuing",
+    "Applicant Type": "Internal Level Up",
+    "Citizenship Country": "Nigeria",
+    "Review Date": "11/25/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Eastern Mediterranean University",
+        "GPA": 2.95,
+        "Degree": "Bachelor of Science",
+        "Subject Area": null
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Exemption",
+      "Score": null
+    }
+  },
+  {
+    "Application ID": "A-0161865",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "Continuing",
+    "Applicant Type": "Internal Level Up",
+    "Citizenship Country": "India",
+    "Review Date": "1/23/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Jawaharlal Nehru Technological University, Kakinada",
+        "GPA": 3.35,
+        "Degree": "Bachelor of Technology",
+        "Subject Area": null
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Duolingo",
+      "Score": 105
+    }
+  },
+  {
+    "Application ID": "A-0154605",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/15/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Chittagong University of Engineering and Technology",
+        "GPA": 3.17,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0155733",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/15/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "United International University",
+        "GPA": 3.93,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      },
+      {
+        "Institution": "United International University",
+        "GPA": 4.0,
+        "Degree": "Master of Science",
+        "Subject Area": "Data Science"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "TOEFL",
+      "Score": 95
+    }
+  },
+  {
+    "Application ID": "A-0156979",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/15/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "American International University-Bangladesh",
+        "GPA": 3.82,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0160081",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/15/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Chittagong University of Engineering and Technology",
+        "GPA": 3.19,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": {
+      "Verbal": 142,
+      "Quantitative": 161
+    },
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0159658",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/15/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "North South University",
+        "GPA": 2.78,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-0160095",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/15/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Shahjalal University of Science and Technology",
+        "GPA": 3.41,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": {
+      "Verbal": 151,
+      "Quantitative": 160
+    },
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7.5
+    }
+  },
+  {
+    "Application ID": "A-0160445",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Nepal",
+    "Review Date": "1/15/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Tribhuvan University",
+        "GPA": 3.19,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Electronics & Communication Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "TOEFL",
+      "Score": 88
+    }
+  },
+  {
+    "Application ID": "A-0160446",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Nepal",
+    "Review Date": "1/15/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Tribhuvan University",
+        "GPA": 3.25,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": null
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "TOEFL",
+      "Score": 99
+    }
+  },
+  {
+    "Application ID": "A-0160637",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "China",
+    "Review Date": "1/14/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Henan University Of Science And Technology",
+        "GPA": 3.25,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Mechatronics Engineering"
+      },
+      {
+        "Institution": "Xidian University",
+        "GPA": 3.87,
+        "Degree": "Master of Engineering",
+        "Subject Area": "Integrated Circuit Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-0160170",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Nigeria",
+    "Review Date": "1/15/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Olabisi Onabanjo University",
+        "GPA": 3.58,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science"
+      }
+    ],
+    "GRE": {
+      "Verbal": 162,
+      "Quantitative": 170
+    },
+    "English Proficiency": {
+      "Test": "Exemption",
+      "Score": null
+    }
+  },
+  {
+    "Application ID": "A-0160208",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/16/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Independent University, Bangladesh",
+        "GPA": 3.64,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering Minor: Math"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0159422",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/15/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Bangladesh University of Professionals",
+        "GPA": 3.64,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Information and Communication Engineering"
+      },
+      {
+        "Institution": "Bangladesh University of Professionals",
+        "GPA": 3.92,
+        "Degree": "Master of Science",
+        "Subject Area": "Information and Communication Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  }
+
+ {
+    "Application ID": "A-0159951",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/15/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "R. P. Shaha University",
+        "GPA": 3.98,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0160236",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/15/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Rajshahi University of Engineering and Technology",
+        "GPA": 3.55,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Electrical & Electronic Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0160701",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Vietnam",
+    "Review Date": "1/15/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "San Jose State University",
+        "GPA": 3.42,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science"
+      },
+      {
+        "Institution": "San Jose State University",
+        "GPA": 3.63,
+        "Degree": "Master of Science",
+        "Subject Area": null
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Exemption",
+      "Score": null
+    }
+  },
+  {
+    "Application ID": "A-0158692",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/17/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Brac University",
+        "GPA": 2.68,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science"
+      },
+      {
+        "Institution": "Brac University",
+        "GPA": 3.27,
+        "Degree": "Master of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "TOEFL",
+      "Score": 97
+    }
+  },
+  {
+    "Application ID": "A-0161437",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "Former Tech Readmission",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "China",
+    "Review Date": "1/20/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Dalian University Of Technology",
+        "GPA": 3.79,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Digital Media Technology"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "TOEFL",
+      "Score": 101
+    }
+  },
+  {
+    "Application ID": "A-0160913",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Pakistan",
+    "Review Date": "1/15/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "NWFP University of Engineering & Tech, Peshawar",
+        "GPA": 2.24,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer System Engineering"
+      },
+      {
+        "Institution": "Clarkson University",
+        "GPA": 3.33,
+        "Degree": "Master of Science",
+        "Subject Area": "Applied Data Science"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Exemption",
+      "Score": null
+    }
+  },
+  {
+    "Application ID": "A-0160826",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Ghana",
+    "Review Date": "1/15/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Ho Technical University",
+        "GPA": 3.42,
+        "Degree": "Bachelor of Technology",
+        "Subject Area": "Information and Communication Technology"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Exemption",
+      "Score": null
+    }
+  },
+  {
+    "Application ID": "A-0160247",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/15/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Chittagong University of Engineering and Technology",
+        "GPA": 3.49,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 8
+    }
+  },
+  {
+    "Application ID": "A-0160355",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/29/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Ahsanullah University of Science and Technology",
+        "GPA": 3.64,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-0162134",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Nepal",
+    "Review Date": "1/25/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Tribhuvan University",
+        "GPA": 3.13,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Computer Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7.5
+    }
+  },
+  {
+    "Application ID": "A-0144886",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Iran",
+    "Review Date": "10/2/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Zand Institute of Higher Education",
+        "GPA": 3.01,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": null
+      },
+      {
+        "Institution": "Shahrood University of Technology",
+        "GPA": 3.44,
+        "Degree": "Master of Science",
+        "Subject Area": null
+      }
+    ],
+    "GRE": {
+      "Verbal": 135,
+      "Quantitative": 151
+    },
+    "English Proficiency": {
+      "Test": "Duolingo",
+      "Score": 125
+    }
+  },
+  {
+    "Application ID": "A-0160735",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "1/30/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Southeast University",
+        "GPA": 3.38,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 6.5
+    }
+  },
+  {
+    "Application ID": "A-0153079",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Nigeria",
+    "Review Date": "1/15/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Federal University of Agriculture, Abeokuta",
+        "GPA": 3.54,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Mathematics"
+      },
+      {
+        "Institution": "Skolkovo Institute of Science and Technology, Moscow",
+        "GPA": null,
+        "Degree": "Master of Science",
+        "Subject Area": "Advanced Computational Science"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Exemption",
+      "Score": null
+    }
+  },
+  {
+    "Application ID": "A-0161438",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "India",
+    "Review Date": "1/29/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Visvesvaraya Technological University",
+        "GPA": 3.46,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": "Computer Science and Engineering"
+      },
+      {
+        "Institution": "International Institute of Information Technology Bangalore",
+        "GPA": 3.84,
+        "Degree": "Postgraduate Diploma",
+        "Subject Area": "Machine Learning and AI"
+      },
+      {
+        "Institution": "Liverpool John Moores University",
+        "GPA": null,
+        "Degree": null,
+        "Subject Area": null
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Exemption",
+      "Score": null
+    }
+  },
+  {
+    "Application ID": "A-0163193",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Cameroon",
+    "Review Date": "2/6/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "United States Naval Academy",
+        "GPA": 3.94,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Cyber Operation"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Exemption",
+      "Score": null
+    }
+  },
+  {
+    "Application ID": "A-0161480",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Zimbabwe",
+    "Review Date": "2/3/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "African Leadership University",
+        "GPA": 3.28,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Exemption",
+      "Score": null
+    }
+  },
+  {
+    "Application ID": "A-0152558",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "Former Tech Readmission",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "India",
+    "Review Date": "2/4/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Gujarat Technological University",
+        "GPA": 3.55,
+        "Degree": "Bachelor of Engineering",
+        "Subject Area": null
+      },
+      {
+        "Institution": "Texas Tech University",
+        "GPA": 3.16,
+        "Degree": "Master of Science",
+        "Subject Area": "Computer Science"
+      }
+    ],
+    "GRE": {
+      "Verbal": 155,
+      "Quantitative": 156
+    },
+    "English Proficiency": {
+      "Test": "Duolingo",
+      "Score": 135
+    }
+  },
+  {
+    "Application ID": "A-0159876",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "2/9/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Bangladesh University of Professionals",
+        "GPA": 3.5,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science and Engineering"
+      },
+      {
+        "Institution": "Wayne State University",
+        "GPA": 3.9,
+        "Degree": "Master of Science",
+        "Subject Area": "Computer Engineering"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Exemption",
+      "Score": null
+    }
+  },
+  {
+    "Application ID": "A-0161233",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "India",
+    "Review Date": "2/1/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Jawaharlal Nehru Technological University, Hyderabad",
+        "GPA": 3.25,
+        "Degree": "Bachelor of Technology",
+        "Subject Area": "Electronics and Communication Engineering"
+      },
+      {
+        "Institution": "Rutgers - State University Of New Jersey - Newark",
+        "GPA": 3.75,
+        "Degree": "Master of Technology",
+        "Subject Area": "Information Technology"
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "IELTS",
+      "Score": 7
+    }
+  },
+  {
+    "Application ID": "A-0154469",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "New First Time",
+    "Applicant Type": "Deferral",
+    "Citizenship Country": "Iran",
+    "Review Date": "12/6/2024",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Fasa University",
+        "GPA": 2.81,
+        "Degree": "Bachelor of Science",
+        "Subject Area": null
+      }
+    ],
+    "GRE": null,
+    "English Proficiency": {
+      "Test": "Duolingo",
+      "Score": 140
+    }
+  }
+
+
+  {
+    "Application ID": "A-0158451",
+    "Intended Term": "Fall 2025",
+    "Program Name": "Computer Science (PhD)",
+    "Student Type": "Former Tech Readmission",
+    "Applicant Type": "Regular",
+    "Citizenship Country": "Bangladesh",
+    "Review Date": "2/16/2025",
+    "Application Delivery Type": "On-Campus",
+    "Education History": [
+      {
+        "Institution": "Texas Tech University",
+        "GPA": 3.42,
+        "Degree": "Bachelor of Science",
+        "Subject Area": "Computer Science"
+      },
+      {
+        "Institution": "Texas Tech University",
+        "GPA": 2.73,
+        "Degree": "Master of Science",
+        "Subject Area": "Data Science"
+      }
+    ],
+    "GRE Scores": null,
+    "English Proficiency": {
+      "Test": "Exemption",
+      "Score": null
+    }
+  }
+]
