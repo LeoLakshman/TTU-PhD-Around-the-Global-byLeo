@@ -1,8 +1,13 @@
 Description
+
 Project Title: TTU PhD Applicants Globe Visualization
+
 Author: Lakshman Pukhraj
+
 Date: March 2025  
+
 Overview
+
 This project is an interactive web-based visualization tool that displays Texas Tech University (TTU) PhD applicants in Computer Science on a 3D globe. It uses data from a JSON file (PhD_Applications.json) containing applicant details such as Application ID, Citizenship Country, Intended Term, Education History, GRE Scores, and English Proficiency. The visualization aggregates applicants by their citizenship country, plots them on a globe with approximate geographic coordinates, and provides a sidebar for navigation. Clicking a country on the globe or sidebar reveals detailed information about each applicant in a popup panel.
 Features
 Globe Visualization: Powered by Globe.gl, it renders a 3D Earth with night-time imagery, marking countries with applicant counts using colored labels (red for higher counts, orange for lower).
