@@ -8,7 +8,7 @@ const countryCoordinates = {
   "China": { latitude: 35.8617, longitude: 104.1954 },
   "Nepal": { latitude: 28.3949, longitude: 84.124 },
   "Vietnam": { latitude: 14.0583, longitude: 108.2772 },
-  "India": { latitude: 20.5937, longitude: 78.9629 },
+  "India": { latitude: 20.5937, longitude: 78.9629 }, 
   "Liberia": { latitude: 6.4281, longitude: -9.4295 },
   "Ireland": { latitude: 53.1424, longitude: -7.6921 },
   "Iran": { latitude: 32.4279, longitude: 53.688 },
