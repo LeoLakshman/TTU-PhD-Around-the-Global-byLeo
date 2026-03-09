@@ -8,7 +8,7 @@ const countryStudents = studentData.filter(student => {
   return country === selectedCountry;
 });
 
-if (countryStudents && countryStudents.length > 0) {
+if (countryStudents && countryStudents.length > 0) { 
   let detailsHTML = `<h2>Students from ${selectedCountry}</h2>`;
   countryStudents.forEach(student => {
     detailsHTML += `
