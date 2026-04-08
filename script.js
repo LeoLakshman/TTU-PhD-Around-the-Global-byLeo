@@ -5,7 +5,7 @@ let studentData;
 // Country coordinates (approximate centroids for visualization)
 const countryCoordinates = {
   "Bangladesh": { latitude: 23.685, longitude: 90.3563 }, 
-  "China": { latitude: 35.8617, longitude: 104.1954 },
+  "China": { latitude: 35.8617, longitude: 104.1954 }, 
   "Nepal": { latitude: 28.3949, longitude: 84.124 },
   "Vietnam": { latitude: 14.0583, longitude: 108.2772 },
   "India": { latitude: 20.5937, longitude: 78.9629 }, 
