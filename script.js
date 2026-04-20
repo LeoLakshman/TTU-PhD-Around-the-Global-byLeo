@@ -25,7 +25,7 @@ const countryCoordinates = {
 
 fetch(GIST_URL)
   .then(res => res.json())
-  .then(data => {
+  .then(data => { 
     studentData = data;
     localStorage.setItem('studentData', JSON.stringify(studentData));
     console.log("Student Data Loaded:", studentData);
